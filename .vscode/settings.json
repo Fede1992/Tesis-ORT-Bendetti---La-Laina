@@ -1,0 +1,19 @@
+{
+    // --- CONFIGURACIÓN DE R ---
+    "r.rterm.windows": "C:\\Program Files\\R\\R-4.4.0\\bin\\R.exe",
+    "r.alwaysUseActiveTerminal": true,
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true,
+    "r.rpath.windows": "C:\\Program Files\\R\\R-4.4.0\\bin\\R.exe",
+    "r.plot.useHttpgd": true,
+    "r.workspaceViewer.enabled": true,
+    "r.source.encoding": "UTF-8",
+    
+    // --- CONFIGURACIÓN OPCIONAL DE PYTHON ---
+    "python.defaultInterpreterPath": "C:\\Users\\flala\\miniconda3\\python.exe",
+
+    // --- OPCIONES DE INTERFAZ (opcionales) ---
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.startupEditor": "newUntitledFile"
+}

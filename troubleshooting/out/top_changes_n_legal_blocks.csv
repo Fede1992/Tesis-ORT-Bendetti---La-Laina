@@ -1,0 +1,21 @@
+file_name,delta_abs,delta,comparison,metric
+47_2013-05-07_crr.txt,7,-7,curr - prev,n_legal_blocks
+47_2014-09-10_crr_5369.txt,3,-3,curr - prev,n_legal_blocks
+49_2022-05-11_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-14_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-15_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-20_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-21_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-02-08_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-03-01_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-03-08_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-03-09_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-03-15_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-03-22_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-04-05_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-04-06_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-05-03_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2022-05-04_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-09_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-08_crr.txt,0,0,curr - prev,n_legal_blocks
+49_2021-12-07_crr_6354.txt,0,0,curr - prev,n_legal_blocks

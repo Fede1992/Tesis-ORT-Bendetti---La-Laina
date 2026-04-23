@@ -1,0 +1,23 @@
+# ── Scraping ──────────────────────────────────────────────────────────────────
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+requests>=2.31.0
+tqdm>=4.66.5
+pymupdf>=1.24.10
+pdfplumber>=0.11.0
+PyYAML>=6.0.2
+playwright>=1.44.0
+python-dateutil>=2.9.0
+
+# ── Estructuras de datos ──────────────────────────────────────────────────────
+pydantic>=2.0.0
+
+# ── Análisis y EDA ────────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+
+# ── Modelado (NLP / Transfer Learning) ───────────────────────────────────────
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.19.0
+scikit-learn>=1.4.0

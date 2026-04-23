@@ -1,0 +1,20 @@
+# Datos pesados
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Comprimidos
+*.rar
+.claude/

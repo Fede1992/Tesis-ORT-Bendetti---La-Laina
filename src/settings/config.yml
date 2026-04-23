@@ -1,0 +1,23 @@
+general:
+  output_dir: "data"
+  user_agent: "DebatesScraper/1.0 (+https://parlamento.gub.uy)"
+  rate_sleep_seconds: 1.0
+  retries: 3
+  timeout: 30
+
+source:
+  base_index: "https://parlamento.gub.uy/documentosyleyes/documentos/diarios-de-sesion"
+  start_page: 0
+  max_pages: 2
+  id_href_regex: "/documentosyleyes/documentos/diarios-de-sesion/(\\d+)(?:$|/)"
+  pdf_suffix: "/IMG"
+
+scrape:
+  chamber: "Parlamento Uruguay"
+  extract_text: true          
+  all_legislaturas: true      
+  max_per_legislatura: 2
+
+export:
+  jsonl_filename: "debates.jsonl"
+  csv_filename: "debates.csv"
