@@ -225,7 +225,7 @@ El corpus final contiene las intervenciones parlamentarias uruguayas 2010–2025
 
 ### Descarga
 
-El dataset completo con sentimiento predicho está disponible en los [**Releases del repositorio**](https://github.com/Fede1992/Tesis-ORT-Benedetti-La-Laina/releases/tag/v1.0):
+El dataset completo con sentimiento predicho está disponible en los [**Releases del repositorio**](https://github.com/Fede1992/Tesis-ORT-Benedetti---La-Laina/releases/tag/v1.0):
 
 | Archivo | Descripción | Filas |
 |---------|-------------|-------|
